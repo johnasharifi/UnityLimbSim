@@ -4,7 +4,7 @@
 
 Solves inverse kinematic problems by rotating limb segments incrementally toward target.
 
-[Brief demo of limbs in motion](https://www.youtube.com/watch?v=pwzNadIxbiM)
+[Brief demo of limbs in motion](https://www.youtube.com/watch?v=ICoIFynmPzw)
 
 In this video, 5 procedurally generated limbs orient themselves in real time to touch a moving sphere. The limbs are able to re-orient in real time as the target sphere's position is changed.
 
